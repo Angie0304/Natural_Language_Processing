@@ -5,7 +5,7 @@
 
 ```text
 self_attention_mechanism/
-├── self_attention.ipynb   # Implementation and experiments of the self-attention mechanism
+├── mecanismo_autoatención.ipynb   # Implementation and experiments of the self-attention mechanism
 ├── README.md              # Documentation
 └── requirements.txt       # Dependencies
 ```
