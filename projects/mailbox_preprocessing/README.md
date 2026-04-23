@@ -19,4 +19,4 @@ mailbox_preprocessing/
 │   └── stopwords.py            # Stopwords definitions
 ├── utils/
 │   └── funciones_estandar_V2_2.py # Utility functions
-└── README.md                      # Documentation
+└── README.md                       # Documentation and execution guide
