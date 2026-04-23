@@ -27,10 +27,12 @@ mailbox_preprocessing/
 
 The system works as follows:
 
-- Load raw feedback data  
-- Clean the text (remove noise and irrelevant characters)  
-- Normalize the text (lowercasing and standardization)  
+- Load input text or dataset  
+- Validate and normalize the input  
+- Apply text cleaning (remove punctuation, symbols, and noise)  
+- Normalize text (lowercasing and accent removal)  
+- Tokenize the text using spaCy  
 - Remove stopwords  
-- Apply preprocessing techniques  
-- Store the processed data  
-- Analyze the results 
+- Apply lemmatization  
+- Clean empty tokens and normalize output  
+- Return processed text as tokens or string  
