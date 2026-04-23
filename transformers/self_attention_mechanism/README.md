@@ -28,7 +28,10 @@ The system works as follows:
 pip install -r requirements.txt
 ```
 
-### 2. Run the notebook
+### 2. Run the notebook 
 ```bash
 jupyter notebook self_attention.ipynb
 ```
+
+## Status 
+Completed
