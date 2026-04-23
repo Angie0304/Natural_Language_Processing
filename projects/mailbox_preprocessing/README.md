@@ -1,7 +1,7 @@
 # Mailbox Feedback Preprocessing
 This project implements a preprocessing pipeline for feedback data collected from a mailbox of complaints and suggestions. It includes data cleaning, normalization, and analysis using Python-based tools to prepare the text for further processing and insights extraction.
 
-## Module Structure
+## Project Structure
 
 ```text
 mailbox_preprocessing/
@@ -21,3 +21,6 @@ mailbox_preprocessing/
 │   └── funciones_estandar_V2_2.py  # Utility functions
 ├── README.md                       # Documentation and execution guide
 └── requirements.txt               # Dependencies
+```
+
+## How it works
