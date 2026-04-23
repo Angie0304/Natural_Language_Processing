@@ -56,3 +56,5 @@ resultado = procesador.procesar(texto)
 
 print(resultado)
 ```
+## Status 
+Completed
