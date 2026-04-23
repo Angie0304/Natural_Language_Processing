@@ -24,3 +24,13 @@ mailbox_preprocessing/
 ```
 
 ## How it works
+
+The system works as follows:
+
+- Load raw feedback data  
+- Clean the text (remove noise and irrelevant characters)  
+- Normalize the text (lowercasing and standardization)  
+- Remove stopwords  
+- Apply preprocessing techniques  
+- Store the processed data  
+- Analyze the results 
