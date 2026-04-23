@@ -1,1 +1,5 @@
-
+nltk
+numpy
+spacy
+transformers
+torch
