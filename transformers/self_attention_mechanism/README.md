@@ -19,4 +19,16 @@ The system works as follows:
 - Scale the scores to stabilize gradients  
 - Apply softmax to obtain attention weights  
 - Multiply attention weights by the value vectors  
-- Aggregate the weighted values to produce context-aware representations  
+- Aggregate the weighted values to produce context-aware representations
+
+## Usage
+
+### 1. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Run the notebook
+```bash
+jupyter notebook self_attention.ipynb
+```
