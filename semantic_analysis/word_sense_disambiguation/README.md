@@ -7,9 +7,9 @@ This module implements Word Sense Disambiguation (WSD) to determine the correct 
 
 ``` text
 sentence_semantic_disambiguation/
-├── README.md
-├── requirements.txt
-└── WSD_Word_Sense_Disambiguation.ipynb
+├── README.md                             # Documentation and execution guide
+├── requirements.txt                      # Dependencies
+└── WSD_Word_Sense_Disambiguation.ipynb   # Semantic Disambiguation with WordNet
 ```
 
 ## How it works
