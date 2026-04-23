@@ -9,3 +9,14 @@ self_attention_mechanism/
 ├── README.md                     # Documentation and usage guide
 └── requirements.txt              # Dependencies
 ```
+## How it works
+
+The system works as follows:
+
+- Represent input tokens as vectors  
+- Compute query (Q), key (K), and value (V) matrices  
+- Calculate attention scores using dot-product similarity between queries and keys  
+- Scale the scores to stabilize gradients  
+- Apply softmax to obtain attention weights  
+- Multiply attention weights by the value vectors  
+- Aggregate the weighted values to produce context-aware representations  
