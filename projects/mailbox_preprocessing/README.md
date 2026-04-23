@@ -18,5 +18,6 @@ mailbox_preprocessing/
 │   ├── constantes.py           # Constants and configurations
 │   └── stopwords.py            # Stopwords definitions
 ├── utils/
-│   └── funciones_estandar_V2_2.py # Utility functions
-└── README.md                       # Documentation and execution guide
+│   └── funciones_estandar_V2_2.py  # Utility functions
+├── README.md                       # Documentation and execution guide
+└── requirements.txt               # Dependencies
