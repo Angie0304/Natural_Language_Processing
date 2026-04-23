@@ -45,3 +45,19 @@ pip install -r requirements.txt
 python -m spacy download es_core_news_sm
 ```
 
+## Usage in python
+
+### 1. Import the module
+```bash
+from source.preprocesamiento import PreprocesadorTextoAvanzado
+```
+
+## 2. Initialize the processor
+```bash
+procesador = PreprocesadorTextoAvanzado()
+```
+## 3. Process text 
+```bash
+resultado = procesador.procesar("Texto de ejemplo")
+print(resultado)
+```
