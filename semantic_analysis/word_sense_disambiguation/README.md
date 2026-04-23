@@ -35,3 +35,6 @@ The module follows these steps:
     jupyter notebook WSD_Word_Sense_Disambiguation.ipynb
    ```
 
+## Status 
+Completed
+
