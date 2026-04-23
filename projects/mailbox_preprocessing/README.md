@@ -1,5 +1,5 @@
 # Mailbox Feedback Preprocessing
-This project implements a preprocessing pipeline for feedback data collected from a mailbox of complaints and suggestions. It includes data cleaning, normalization, and analysis using Python-based tools to prepare the text for further processing and insights extraction.
+This project implements a preprocessing pipeline for feedback data collected from a mailbox of complaints and suggestions. It includes data cleaning and normalization using Python-based tools to prepare the text for further analysis and processing.
 
 ## Project Structure
 
@@ -27,14 +27,13 @@ mailbox_preprocessing/
 
 The system works as follows:
 
-- Load input text or dataset  
-- Validate and normalize the input  
-- Apply text cleaning (remove punctuation, symbols, and noise)  
-- Normalize text (lowercasing and accent removal)  
-- Tokenize the text using spaCy  
-- Remove stopwords  
-- Apply lemmatization  
-- Clean empty tokens and normalize output  
+- Load input text or dataset
+- Apply text cleaning (remove punctuation, symbols, and noise)
+- Normalize text (lowercasing and accent removal)
+- Tokenize the text using spaCy
+- Remove stopwords
+- Apply lemmatization
+- Clean empty tokens and normalize output
 - Return processed text as tokens or string
 
 ## Usage 
