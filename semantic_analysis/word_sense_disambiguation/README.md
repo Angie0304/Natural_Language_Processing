@@ -34,6 +34,19 @@ The module follows these steps:
    ```bash
     jupyter notebook WSD_Word_Sense_Disambiguation.ipynb
    ```
+## Aditional Setup 
+
+1. Download spaCy model:
+```bash
+python -m spacy download en_core_web_sm
+```
+
+2. Download NLTK resources:
+```bash
+import nltk
+nltk.download('wordnet')
+nltk.download('stopwords')
+```
 
 ## Status 
 Completed
