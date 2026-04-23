@@ -35,4 +35,13 @@ The system works as follows:
 - Remove stopwords  
 - Apply lemmatization  
 - Clean empty tokens and normalize output  
-- Return processed text as tokens or string  
+- Return processed text as tokens or string
+
+## Usage 
+
+### 1. Install dependencies
+```bash
+pip install -r requirements.txt
+python -m spacy download es_core_news_sm
+```
+
