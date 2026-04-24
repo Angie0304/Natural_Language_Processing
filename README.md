@@ -1,5 +1,5 @@
 # Natural_Language_Processing
-This repository contains practical projects and implementations in Natural Language Processing (NLP), focusing on text preprocessing, the Self-Attention mechanism, and semantic analysis techniques. It explores key stages of NLP workflows, from data preparation to fundamental concepts in modern NLP.
+This repository contains practical projects and implementations in Natural Language Processing (NLP), focusing on text preprocessing, core components of Transformer architectures, and semantic analysis techniques.
 
 ## Repository Structure
 
