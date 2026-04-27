@@ -34,4 +34,4 @@ jupyter notebook self_attention.ipynb
 ```
 
 ## Status 
-Completed
+Complete
