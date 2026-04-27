@@ -50,5 +50,5 @@ nltk.download('stopwords')
 ```
 
 ## Status 
-Completed
+Complete
 
