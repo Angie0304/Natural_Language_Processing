@@ -27,14 +27,14 @@ The system works as follows:
 ## Usage 
 
 1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 
 2. Run the notebook:
-   ```bash
-    jupyter notebook WSD_Word_Sense_Disambiguation.ipynb
-   ```
+```bash
+jupyter notebook WSD_Word_Sense_Disambiguation.ipynb
+```
 ## Aditional Setup 
 
 1. Download spaCy model:
